@@ -7,6 +7,7 @@
 */
 
 #include <JuceHeader.h>
+#include <grpcpp/grpcpp.h> 
 #include "MainComponent.h"
 
 //==============================================================================
