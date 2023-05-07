@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+package lemonade;
+
+message AudoBufferClientRequest {
+ required int32 length = 1;
+ optional int32 databuffer = 2;
+}
